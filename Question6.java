@@ -8,7 +8,7 @@ class Student {
         this.marks = marks;
     }
 }
-public class StudentAverage {
+public class Question6 {
     public static void main(String[] args) {
         ArrayList<Student> students = new ArrayList<>();
         students.add(new Student("Alice", 85));
